@@ -1,0 +1,433 @@
+"municipio","low_cost","max(precio_gasoleo_a)","min(precio_gasoleo_a)","mean(precio_gasoleo_a)","max(precio_gasolina_95_e5_premium)","min(precio_gasolina_95_e5_premium)","mean(precio_gasolina_95_e5_premium)"
+"Abrera","Lowcost",1.369,1.369,1.369,1.539,1.539,1.539
+"Adanero","No_Lowcost",1.379,1.369,1.374,1.579,1.569,1.574
+"Aguaviva","Lowcost",1.379,1.379,1.379,1.589,1.589,1.589
+"Aguilar de la Frontera","No_Lowcost",1.379,1.379,1.379,1.509,1.509,1.509
+"Águilas","No_Lowcost",1.369,1.369,1.369,1.549,1.549,1.549
+"Agüimes","Lowcost",1.029,1.029,1.029,1.149,1.149,1.149
+"Albacete","Lowcost",1.409,1.409,1.409,1.559,1.559,1.559
+"Albalat dels Sorells","No_Lowcost",1.359,1.359,1.359,1.549,1.549,1.549
+"Alberic","No_Lowcost",1.385,1.359,1.372,1.584,1.569,1.5765
+"Alberite de San Juan","No_Lowcost",1.339,1.339,1.339,1.549,1.549,1.549
+"Albuixech","No_Lowcost",1.359,1.359,1.359,1.549,1.549,1.549
+"Alcalá de Guadaíra","No_Lowcost",1.399,1.395,1.397,1.589,1.584,1.5865
+"Alcalá de Henares","No_Lowcost",1.459,1.419,1.439,1.614,1.609,1.6115
+"Alcalá la Real","Lowcost",1.269,1.269,1.269,1.409,1.409,1.409
+"Alcaraz","No_Lowcost",1.369,1.369,1.369,1.519,1.519,1.519
+"Alcázar de San Juan","No_Lowcost",1.385,1.385,1.385,1.559,1.559,1.559
+"Alcobendas","No_Lowcost",1.455,1.429,1.442,1.644,1.609,1.6265
+"Alcorcón","Lowcost",1.425,1.425,1.425,1.619,1.619,1.619
+"Alcorcón","No_Lowcost",1.419,1.419,1.419,1.609,1.609,1.609
+"Alcoy/Alcoi","No_Lowcost",1.379,1.379,1.379,1.559,1.559,1.559
+"Alcúdia","No_Lowcost",1.435,1.429,1.432,1.664,1.639,1.6515
+"Aldaia","No_Lowcost",1.369,1.369,1.369,1.569,1.569,1.569
+"Aldea del Fresno","No_Lowcost",1.419,1.419,1.419,1.604,1.604,1.604
+"Algaba (La)","No_Lowcost",1.399,1.399,1.399,1.579,1.579,1.579
+"Algeciras","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Alhama de Granada","No_Lowcost",1.369,1.369,1.369,1.559,1.559,1.559
+"Alicante/Alacant","Lowcost",1.385,1.385,1.385,1.579,1.579,1.579
+"Alicante/Alacant","No_Lowcost",1.395,1.385,1.3875,1.634,1.574,1.6015
+"Almadrones","No_Lowcost",1.385,1.385,1.385,1.569,1.569,1.569
+"Almansa","No_Lowcost",1.399,1.389,1.394,1.569,1.554,1.5615
+"Almería","No_Lowcost",1.385,1.379,1.3835,1.614,1.554,1.57025
+"Almoradí","Lowcost",1.289,1.289,1.289,1.489,1.489,1.489
+"Almoradí","No_Lowcost",1.395,1.395,1.395,1.584,1.584,1.584
+"Almudévar","No_Lowcost",1.369,1.369,1.369,1.539,1.539,1.539
+"Alpedrete","No_Lowcost",1.419,1.419,1.419,1.609,1.609,1.609
+"Altafulla","No_Lowcost",1.419,1.419,1.419,1.614,1.614,1.614
+"Amposta","Lowcost",1.26,1.26,1.26,1.39,1.39,1.39
+"Andoain","Lowcost",1.399,1.399,1.399,1.489,1.489,1.489
+"Andújar","Lowcost",1.429,1.429,1.429,1.589,1.589,1.589
+"Andújar","No_Lowcost",1.389,1.389,1.389,1.579,1.569,1.574
+"Aranjuez","No_Lowcost",1.355,1.349,1.352,1.549,1.539,1.544
+"Arboç (L')","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Archena","Lowcost",1.279,1.279,1.279,1.409,1.409,1.409
+"Arcos de Jalón","No_Lowcost",1.379,1.379,1.379,1.559,1.559,1.559
+"Arcos de la Frontera","No_Lowcost",1.369,1.369,1.369,1.573,1.573,1.573
+"Ariza","No_Lowcost",1.389,1.385,1.387,1.584,1.584,1.584
+"Armilla","No_Lowcost",1.379,1.379,1.379,1.569,1.569,1.569
+"Arrigorriaga","Lowcost",1.459,1.459,1.459,1.619,1.619,1.619
+"Astorga","No_Lowcost",1.449,1.449,1.449,1.569,1.569,1.569
+"Atarfe","No_Lowcost",1.379,1.379,1.379,1.564,1.564,1.564
+"Ávila","No_Lowcost",1.409,1.389,1.399,1.589,1.584,1.5865
+"Avilés","Lowcost",1.389,1.365,1.377,1.579,1.559,1.569
+"Avilés","No_Lowcost",1.389,1.389,1.389,1.574,1.574,1.574
+"Avinyó","Lowcost",1.399,1.399,1.399,1.609,1.609,1.609
+"Azuqueca de Henares","No_Lowcost",1.385,1.385,1.385,1.569,1.569,1.569
+"Badajoz","No_Lowcost",1.395,1.395,1.395,1.559,1.559,1.559
+"Badalona","No_Lowcost",1.429,1.429,1.429,1.629,1.629,1.629
+"Bailén","No_Lowcost",1.389,1.379,1.384,1.559,1.554,1.5565
+"Barañain","No_Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Barbate","No_Lowcost",1.379,1.379,1.379,1.629,1.629,1.629
+"Barrios (Los)","No_Lowcost",1.389,1.379,1.384,1.579,1.569,1.574
+"Barro","No_Lowcost",1.389,1.389,1.389,1.529,1.529,1.529
+"Benicarló","No_Lowcost",1.439,1.439,1.439,1.624,1.624,1.624
+"Benidorm","No_Lowcost",1.419,1.419,1.419,1.609,1.609,1.609
+"Bera/Vera de Bidasoa","Lowcost",1.309,1.309,1.309,1.399,1.399,1.399
+"Berango","No_Lowcost",1.419,1.419,1.419,1.599,1.599,1.599
+"Bilbao","No_Lowcost",1.425,1.425,1.425,1.609,1.609,1.609
+"Binéfar","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Boceguillas","No_Lowcost",1.429,1.429,1.429,1.599,1.599,1.599
+"Boecillo","No_Lowcost",1.379,1.379,1.379,1.629,1.629,1.629
+"Boñar","No_Lowcost",1.439,1.439,1.439,1.619,1.619,1.619
+"Brea de Aragón","No_Lowcost",1.349,1.349,1.349,1.539,1.539,1.539
+"Brunete","No_Lowcost",1.419,1.419,1.419,1.669,1.669,1.669
+"Bunyola","No_Lowcost",1.479,1.479,1.479,1.669,1.669,1.669
+"Burgos","Lowcost",1.403,1.4,1.4015,1.589,1.584,1.5865
+"Burgos","No_Lowcost",1.395,1.395,1.395,1.561,1.561,1.561
+"Cabezón de la Sal","No_Lowcost",1.405,1.405,1.405,1.649,1.649,1.649
+"Cáceres","No_Lowcost",1.399,1.399,1.399,1.619,1.619,1.619
+"Cádiz","No_Lowcost",1.355,1.339,1.347,1.569,1.509,1.539
+"Calella","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Calvià","No_Lowcost",1.435,1.435,1.435,1.629,1.609,1.619
+"Cambre","No_Lowcost",1.405,1.405,1.405,1.604,1.604,1.604
+"Campanet","No_Lowcost",1.435,1.435,1.435,1.604,1.604,1.604
+"Campello (el)","Lowcost",1.369,1.369,1.369,1.589,1.589,1.589
+"Campo de Criptana","Lowcost",1.379,1.379,1.379,1.529,1.529,1.529
+"Canals","No_Lowcost",1.389,1.379,1.384,1.569,1.539,1.554
+"Canfranc","No_Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Cangas","No_Lowcost",1.395,1.395,1.395,1.594,1.594,1.594
+"Cangas de Onís","Lowcost",1.399,1.399,1.399,1.529,1.529,1.529
+"Cantillana","Lowcost",1.349,1.349,1.349,1.539,1.539,1.539
+"Caravaca de la Cruz","No_Lowcost",1.369,1.369,1.369,1.549,1.549,1.549
+"Carbajosa de la Sagrada","No_Lowcost",1.276,1.276,1.276,1.476,1.476,1.476
+"Cárcheles","No_Lowcost",1.389,1.389,1.389,1.599,1.599,1.599
+"Cariñena","No_Lowcost",1.385,1.385,1.385,1.584,1.584,1.584
+"Carmona","No_Lowcost",1.389,1.389,1.389,1.559,1.559,1.559
+"Carnota","No_Lowcost",1.399,1.399,1.399,1.629,1.629,1.629
+"Carolina (La)","No_Lowcost",1.389,1.389,1.389,1.559,1.559,1.559
+"Carpio (El)","No_Lowcost",1.409,1.409,1.409,1.559,1.559,1.559
+"Cartagena","Lowcost",1.278,1.278,1.278,1.428,1.428,1.428
+"Cartagena","No_Lowcost",1.379,1.349,1.36263636363636,1.559,1.509,1.53718181818182
+"Casabermeja","No_Lowcost",1.399,1.399,1.399,1.644,1.644,1.644
+"Casar de Cáceres","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Castalla","No_Lowcost",1.389,1.389,1.389,1.599,1.599,1.599
+"Castejón del Puente","Lowcost",1.389,1.389,1.389,1.559,1.559,1.559
+"Castellar del Vallès","No_Lowcost",1.429,1.429,1.429,1.619,1.619,1.619
+"Castellet i la Gornal","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Castellón de la Plana/Castelló de la Plana","No_Lowcost",1.369,1.369,1.369,1.554,1.554,1.554
+"Castillejo de Iniesta","No_Lowcost",1.409,1.409,1.409,1.584,1.584,1.584
+"Castillo de Garcimuñoz","No_Lowcost",1.384,1.384,1.384,1.574,1.574,1.574
+"Cazalegas","No_Lowcost",1.405,1.405,1.405,1.579,1.579,1.579
+"Cazalla de la Sierra","No_Lowcost",1.379,1.379,1.379,1.579,1.579,1.579
+"Cedillo del Condado","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Cee","No_Lowcost",1.369,1.369,1.369,1.549,1.549,1.549
+"Cella","No_Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Cercs","Lowcost",1.299,1.299,1.299,1.409,1.409,1.409
+"Cerdanyola del Vallès","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Ceuta","No_Lowcost",1.125,1.125,1.125,1.259,1.259,1.259
+"Ceutí","Lowcost",1.289,1.289,1.289,1.459,1.459,1.459
+"Chiclana de la Frontera","No_Lowcost",1.379,1.359,1.369,1.569,1.519,1.5465
+"Chillarón de Cuenca","No_Lowcost",1.409,1.409,1.409,1.644,1.644,1.644
+"Chipiona","No_Lowcost",1.369,1.369,1.369,1.519,1.519,1.519
+"Chiva","No_Lowcost",1.389,1.389,1.389,1.549,1.549,1.549
+"Churriana de la Vega","No_Lowcost",1.369,1.369,1.369,1.569,1.569,1.569
+"Cifuentes","No_Lowcost",1.385,1.385,1.385,1.574,1.574,1.574
+"Cintruénigo","No_Lowcost",1.399,1.399,1.399,1.589,1.589,1.589
+"Cistérniga","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Ciudad Real","No_Lowcost",1.379,1.359,1.369,1.539,1.519,1.529
+"Collado Villalba","No_Lowcost",1.429,1.429,1.429,1.634,1.634,1.634
+"Congosto","No_Lowcost",1.419,1.419,1.419,1.579,1.579,1.579
+"Consuegra","No_Lowcost",1.409,1.409,1.409,1.589,1.589,1.589
+"Córdoba","No_Lowcost",1.399,1.379,1.385,1.589,1.539,1.56536363636364
+"Cornellà de Llobregat","No_Lowcost",1.419,1.419,1.419,1.619,1.619,1.619
+"Coruña (A)","No_Lowcost",1.415,1.405,1.40866666666667,1.619,1.559,1.59316666666667
+"Corvera de Asturias","No_Lowcost",1.385,1.379,1.382,1.559,1.509,1.534
+"Coslada","No_Lowcost",1.419,1.419,1.419,1.619,1.619,1.619
+"Crevillent","No_Lowcost",1.419,1.419,1.419,1.569,1.569,1.569
+"Cuenca","No_Lowcost",1.409,1.409,1.409,1.584,1.559,1.5715
+"Cuevas del Almanzora","No_Lowcost",1.349,1.349,1.349,1.509,1.509,1.509
+"Darro","No_Lowcost",1.399,1.399,1.399,1.599,1.599,1.599
+"Dénia","No_Lowcost",1.409,1.409,1.409,1.569,1.569,1.569
+"Doneztebe/Santesteban","No_Lowcost",1.399,1.399,1.399,1.589,1.589,1.589
+"Donostia-San Sebastián","No_Lowcost",1.449,1.379,1.42566666666667,1.629,1.579,1.61233333333333
+"Doña Mencía","No_Lowcost",1.379,1.379,1.379,1.559,1.559,1.559
+"Écija","No_Lowcost",1.359,1.359,1.359,1.599,1.599,1.599
+"Ejido (El)","Lowcost",1.294,1.213,1.267,1.426,1.35,1.40066666666667
+"Elche/Elx","Lowcost",1.395,1.395,1.395,1.569,1.569,1.569
+"Elche/Elx","No_Lowcost",1.419,1.399,1.409,1.579,1.559,1.569
+"Elda","No_Lowcost",1.39,1.389,1.3895,1.584,1.549,1.5665
+"Eliana (l')","No_Lowcost",1.369,1.369,1.369,1.559,1.559,1.559
+"Elorrio","No_Lowcost",1.425,1.425,1.425,1.609,1.609,1.609
+"Épila","No_Lowcost",1.389,1.389,1.389,1.629,1.629,1.629
+"Escalona","No_Lowcost",1.405,1.405,1.405,1.579,1.579,1.579
+"Esparreguera","No_Lowcost",1.429,1.429,1.429,1.589,1.589,1.589
+"Estepona","No_Lowcost",1.409,1.399,1.40233333333333,1.599,1.579,1.589
+"Etxebarri, Anteiglesia de San Esteban-Etxebarri Doneztebeko","No_Lowcost",1.429,1.429,1.429,1.599,1.599,1.599
+"Fene","No_Lowcost",1.425,1.425,1.425,1.569,1.569,1.569
+"Fermoselle","No_Lowcost",1.35,1.35,1.35,1.569,1.569,1.569
+"Ferrol","No_Lowcost",1.409,1.409,1.409,1.569,1.569,1.569
+"Fogars de la Selva","No_Lowcost",1.425,1.425,1.425,1.629,1.629,1.629
+"Formentera del Segura","Lowcost",1.289,1.289,1.289,1.489,1.489,1.489
+"Freila","No_Lowcost",1.399,1.399,1.399,1.659,1.659,1.659
+"Fuente Álamo de Murcia","No_Lowcost",1.369,1.369,1.369,1.549,1.549,1.549
+"Fuente Obejuna","No_Lowcost",1.349,1.349,1.349,1.509,1.509,1.509
+"Fuentespina","No_Lowcost",1.395,1.395,1.395,1.561,1.561,1.561
+"Galisteo","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Gandia","No_Lowcost",1.379,1.359,1.369,1.579,1.559,1.56566666666667
+"Garriga (La)","No_Lowcost",1.409,1.409,1.409,1.549,1.549,1.549
+"Getafe","No_Lowcost",1.425,1.379,1.40766666666667,1.604,1.559,1.589
+"Getxo","No_Lowcost",1.419,1.419,1.419,1.599,1.599,1.599
+"Gijón","No_Lowcost",1.409,1.349,1.382,1.589,1.539,1.559
+"Gineta (La)","No_Lowcost",1.409,1.409,1.409,1.539,1.539,1.539
+"Girona","No_Lowcost",1.379,1.379,1.379,1.609,1.609,1.609
+"Grado","No_Lowcost",1.375,1.375,1.375,1.574,1.574,1.574
+"Granada","No_Lowcost",1.379,1.329,1.354,1.569,1.529,1.549
+"Guadalajara","No_Lowcost",1.389,1.389,1.389,1.599,1.599,1.599
+"Guadarrama","No_Lowcost",1.419,1.419,1.419,1.604,1.604,1.604
+"Guardamar del Segura","No_Lowcost",1.369,1.369,1.369,1.574,1.574,1.574
+"Guarromán","Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Güímar","Lowcost",1.089,1.089,1.089,1.179,1.179,1.179
+"Hellín","No_Lowcost",1.389,1.389,1.389,1.554,1.554,1.554
+"Honrubia","No_Lowcost",1.384,1.384,1.384,1.574,1.574,1.574
+"Hospitalet de Llobregat (L')","No_Lowcost",1.449,1.449,1.449,1.689,1.689,1.689
+"Huelva","No_Lowcost",1.399,1.375,1.38475,1.564,1.549,1.55525
+"Huesca","No_Lowcost",1.359,1.355,1.357,1.569,1.519,1.544
+"Huétor Vega","No_Lowcost",1.369,1.369,1.369,1.579,1.579,1.579
+"Igualada","Lowcost",1.229,1.229,1.229,1.349,1.349,1.349
+"Igualada","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Illescas","No_Lowcost",1.439,1.439,1.439,1.579,1.579,1.579
+"Jaén","No_Lowcost",1.409,1.345,1.38433333333333,1.569,1.529,1.55566666666667
+"Jávea/Xàbia","No_Lowcost",1.369,1.345,1.357,1.549,1.534,1.5415
+"Jerez de la Frontera","No_Lowcost",1.389,1.365,1.37725,1.579,1.549,1.56275
+"Jumilla","No_Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Larraun","No_Lowcost",1.425,1.425,1.425,1.624,1.624,1.624
+"Leganés","No_Lowcost",1.419,1.419,1.419,1.604,1.604,1.604
+"León","No_Lowcost",1.429,1.429,1.429,1.599,1.599,1.599
+"Linares de Riofrío","No_Lowcost",1.379,1.379,1.379,1.569,1.569,1.569
+"Línea de la Concepción (La)","Lowcost",1.279,1.279,1.279,1.479,1.479,1.479
+"Línea de la Concepción (La)","No_Lowcost",1.349,1.349,1.349,1.579,1.579,1.579
+"Lleida","No_Lowcost",1.389,1.379,1.384,1.609,1.589,1.599
+"Llers","Lowcost",1.389,1.389,1.389,1.459,1.459,1.459
+"Llíria","No_Lowcost",1.349,1.349,1.349,1.617,1.617,1.617
+"Lloret de Mar","No_Lowcost",1.405,1.405,1.405,1.609,1.609,1.609
+"Lloseta","No_Lowcost",1.435,1.435,1.435,1.604,1.604,1.604
+"Llucmajor","No_Lowcost",1.459,1.445,1.4485,1.649,1.609,1.639
+"Lodosa","No_Lowcost",1.389,1.389,1.389,1.584,1.584,1.584
+"Lucena","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Lugo","No_Lowcost",1.419,1.359,1.389,1.599,1.544,1.5715
+"Maçanet de la Selva","No_Lowcost",1.429,1.429,1.429,1.624,1.624,1.624
+"Madrigalejo del Monte","No_Lowcost",1.405,1.405,1.405,1.594,1.594,1.594
+"Magaz de Pisuerga","No_Lowcost",1.399,1.399,1.399,1.549,1.549,1.549
+"Málaga","No_Lowcost",1.419,1.399,1.40775,1.639,1.569,1.61275
+"Manresa","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Marbella","No_Lowcost",1.399,1.399,1.399,1.639,1.584,1.59775
+"Marchena","No_Lowcost",1.385,1.385,1.385,1.584,1.584,1.584
+"Martín de Yeltes","No_Lowcost",1.395,1.385,1.39,1.574,1.564,1.569
+"Mataró","No_Lowcost",1.439,1.299,1.369,1.619,1.524,1.5715
+"Medina-Sidonia","No_Lowcost",1.385,1.385,1.385,1.569,1.569,1.569
+"Medina del Campo","No_Lowcost",1.399,1.399,1.399,1.549,1.549,1.549
+"Medio Cudeyo","No_Lowcost",1.415,1.415,1.415,1.594,1.594,1.594
+"Membrilla","No_Lowcost",1.395,1.395,1.395,1.569,1.569,1.569
+"Mengíbar","Lowcost",1.379,1.379,1.379,1.459,1.459,1.459
+"Mérida","No_Lowcost",1.419,1.405,1.41433333333333,1.569,1.529,1.549
+"Miajadas","No_Lowcost",1.389,1.389,1.389,1.509,1.509,1.509
+"Miguelturra","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Mijas","No_Lowcost",1.405,1.405,1.405,1.644,1.644,1.644
+"Milagros","No_Lowcost",1.385,1.385,1.385,1.599,1.599,1.599
+"Miraflores de la Sierra","No_Lowcost",1.419,1.419,1.419,1.604,1.604,1.604
+"Mislata","No_Lowcost",1.369,1.369,1.369,1.529,1.529,1.529
+"Mojácar","No_Lowcost",1.349,1.349,1.349,1.519,1.519,1.519
+"Molina de Aragón","No_Lowcost",1.419,1.389,1.404,1.599,1.589,1.594
+"Molina de Segura","Lowcost",1.289,1.289,1.289,1.449,1.449,1.449
+"Mollerussa","No_Lowcost",1.369,1.369,1.369,1.569,1.569,1.569
+"Mollet del Vallès","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Monforte del Cid","No_Lowcost",1.399,1.399,1.399,1.594,1.594,1.594
+"Montcada i Reixac","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Montemayor","No_Lowcost",1.409,1.409,1.409,1.529,1.529,1.529
+"Montijo","No_Lowcost",1.439,1.439,1.439,1.529,1.529,1.529
+"Montoro","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Moral de Calatrava","No_Lowcost",1.359,1.359,1.359,1.529,1.529,1.529
+"Moraleja","No_Lowcost",1.345,1.345,1.345,1.534,1.534,1.534
+"Morón de la Frontera","No_Lowcost",1.389,1.389,1.389,1.584,1.584,1.584
+"Móstoles","Lowcost",1.389,1.389,1.389,1.519,1.519,1.519
+"Móstoles","No_Lowcost",1.429,1.419,1.42233333333333,1.614,1.604,1.609
+"Motril","No_Lowcost",1.379,1.379,1.379,1.589,1.589,1.589
+"Muela (La)","No_Lowcost",1.375,1.375,1.375,1.574,1.574,1.574
+"Murcia","Lowcost",1.299,1.269,1.28383333333333,1.489,1.419,1.45383333333333
+"Murcia","No_Lowcost",1.379,1.369,1.37233333333333,1.569,1.509,1.54316666666667
+"Muro de Alcoy","No_Lowcost",1.389,1.385,1.38633333333333,1.589,1.579,1.58233333333333
+"Muros","No_Lowcost",1.419,1.419,1.419,1.619,1.619,1.619
+"Museros","No_Lowcost",1.359,1.359,1.359,1.539,1.539,1.539
+"Mutxamel","No_Lowcost",1.385,1.385,1.385,1.585,1.585,1.585
+"Navacerrada","No_Lowcost",1.429,1.429,1.429,1.614,1.614,1.614
+"Navalcarnero","No_Lowcost",1.419,1.419,1.419,1.609,1.609,1.609
+"Navarrete","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Noáin (Valle de Elorz)/Noain (Elortzibar)","No_Lowcost",1.429,1.389,1.40233333333333,1.589,1.579,1.584
+"Nueno","No_Lowcost",1.388,1.388,1.388,1.558,1.558,1.558
+"Ocaña","No_Lowcost",1.415,1.415,1.415,1.589,1.589,1.589
+"Olot","No_Lowcost",1.399,1.399,1.399,1.629,1.629,1.629
+"Onda","No_Lowcost",1.369,1.349,1.359,1.589,1.534,1.5615
+"Ontur","No_Lowcost",1.369,1.369,1.369,1.509,1.509,1.509
+"Orgaz","No_Lowcost",1.399,1.399,1.399,1.589,1.589,1.589
+"Orihuela","Lowcost",1.26,1.26,1.26,1.46,1.46,1.46
+"Orihuela","No_Lowcost",1.412,1.394,1.403,1.589,1.584,1.5865
+"Ossa de Montiel","No_Lowcost",1.369,1.369,1.369,1.499,1.499,1.499
+"Osuna","No_Lowcost",1.389,1.389,1.389,1.559,1.559,1.559
+"Otero","No_Lowcost",1.449,1.449,1.449,1.619,1.619,1.619
+"Outes","No_Lowcost",1.359,1.359,1.359,1.594,1.594,1.594
+"Oviedo","No_Lowcost",1.409,1.395,1.402,1.579,1.564,1.5715
+"Pacs del Penedès","No_Lowcost",1.415,1.415,1.415,1.659,1.659,1.659
+"Padul","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Paiporta","No_Lowcost",1.319,1.319,1.319,1.519,1.519,1.519
+"Palencia","No_Lowcost",1.399,1.389,1.394,1.629,1.559,1.594
+"Pallejà","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Palma de Mallorca","No_Lowcost",1.449,1.429,1.43866666666667,1.679,1.599,1.62983333333333
+"Palma del Condado (La)","No_Lowcost",1.385,1.385,1.385,1.559,1.559,1.559
+"Palma del Río","No_Lowcost",1.389,1.379,1.384,1.559,1.559,1.559
+"Palmas de Gran Canaria (Las)","No_Lowcost",1.099,1.099,1.099,1.225,1.225,1.225
+"Pamplona/Iruña","No_Lowcost",1.399,1.399,1.399,1.609,1.609,1.609
+"Pardilla","No_Lowcost",1.385,1.385,1.385,1.599,1.599,1.599
+"Paterna","No_Lowcost",1.379,1.379,1.379,1.579,1.579,1.579
+"Paterna de Rivera","No_Lowcost",1.399,1.399,1.399,1.609,1.609,1.609
+"Pedro Muñoz","No_Lowcost",1.349,1.349,1.349,1.499,1.499,1.499
+"Pedroñeras (Las)","No_Lowcost",1.399,1.399,1.399,1.574,1.574,1.574
+"Pedrosillo el Ralo","No_Lowcost",1.395,1.385,1.39,1.579,1.569,1.574
+"Perales de Tajuña","No_Lowcost",1.429,1.429,1.429,1.614,1.614,1.614
+"Petra","No_Lowcost",1.435,1.435,1.435,1.664,1.664,1.664
+"Petrer","No_Lowcost",1.395,1.395,1.395,1.584,1.584,1.584
+"Piélagos","No_Lowcost",1.405,1.405,1.405,1.584,1.584,1.584
+"Pilar de la Horadada","No_Lowcost",1.385,1.385,1.385,1.574,1.574,1.574
+"Pinto","No_Lowcost",1.425,1.379,1.402,1.589,1.579,1.584
+"Pobla (Sa)","No_Lowcost",1.442,1.442,1.442,1.629,1.629,1.629
+"Pobla de Vallbona (la)","No_Lowcost",1.375,1.375,1.375,1.574,1.574,1.574
+"Ponferrada","No_Lowcost",1.419,1.405,1.40966666666667,1.624,1.549,1.58733333333333
+"Pont de Suert (El)","No_Lowcost",1.369,1.369,1.369,1.569,1.569,1.569
+"Pontevedra","No_Lowcost",1.395,1.395,1.395,1.574,1.574,1.574
+"Portugalete","No_Lowcost",1.429,1.429,1.429,1.609,1.609,1.609
+"Pozoblanco","No_Lowcost",1.409,1.409,1.409,1.549,1.549,1.549
+"Prat de Llobregat (El)","Lowcost",1.449,1.449,1.449,1.649,1.649,1.649
+"Prat de Llobregat (El)","No_Lowcost",1.415,1.415,1.415,1.659,1.619,1.639
+"Priego de Córdoba","No_Lowcost",1.379,1.379,1.379,1.559,1.559,1.559
+"Puçol","No_Lowcost",1.375,1.375,1.375,1.574,1.574,1.574
+"Puebla de Alfindén (La)","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Puebla de Almoradiel (La)","Lowcost",1.398,1.398,1.398,1.548,1.548,1.548
+"Puebla de Sancho Pérez","No_Lowcost",1.415,1.415,1.415,1.569,1.569,1.569
+"Puerto de Santa María (El)","Lowcost",1.319,1.319,1.319,1.459,1.459,1.459
+"Puerto de Santa María (El)","No_Lowcost",1.379,1.359,1.36566666666667,1.619,1.599,1.60566666666667
+"Puerto Lumbreras","No_Lowcost",1.379,1.379,1.379,1.559,1.559,1.559
+"Puerto Real","No_Lowcost",1.359,1.359,1.359,1.569,1.569,1.569
+"Puertollano","No_Lowcost",1.409,1.409,1.409,1.539,1.539,1.539
+"Quart de Poblet","No_Lowcost",1.324,1.324,1.324,1.524,1.524,1.524
+"Quintanapalla","No_Lowcost",1.429,1.429,1.429,1.589,1.589,1.589
+"Quintanilla Vivar","Lowcost",1.385,1.385,1.385,1.569,1.569,1.569
+"Riba-roja de Túria","No_Lowcost",1.379,1.379,1.379,1.579,1.579,1.579
+"Ribera de Arriba","Lowcost",1.384,1.384,1.384,1.57,1.57,1.57
+"Rincón de la Victoria","No_Lowcost",1.399,1.399,1.399,1.639,1.639,1.639
+"Riópar","No_Lowcost",1.419,1.419,1.419,1.569,1.569,1.569
+"Ripollet","No_Lowcost",1.439,1.439,1.439,1.619,1.619,1.619
+"Roda de Barà","Lowcost",1.409,1.409,1.409,1.599,1.599,1.599
+"Ronda","No_Lowcost",1.409,1.399,1.404,1.644,1.594,1.619
+"Roperuelos del Páramo","No_Lowcost",1.399,1.399,1.399,1.584,1.584,1.584
+"Roquetas de Mar","No_Lowcost",1.389,1.389,1.389,1.609,1.609,1.609
+"Rota","No_Lowcost",1.359,1.359,1.359,1.569,1.569,1.569
+"Sabadell","No_Lowcost",1.429,1.429,1.429,1.629,1.629,1.629
+"Sagunto/Sagunt","No_Lowcost",1.375,1.375,1.375,1.574,1.574,1.574
+"Sahagún","No_Lowcost",1.415,1.415,1.415,1.604,1.604,1.604
+"Salceda de Caselas","Lowcost",1.399,1.399,1.399,1.549,1.549,1.549
+"Salines (Ses)","No_Lowcost",1.489,1.489,1.489,1.659,1.659,1.659
+"Sallent","Lowcost",1.219,1.219,1.219,1.369,1.369,1.369
+"San Cibrao das Viñas","No_Lowcost",1.399,1.399,1.399,1.549,1.549,1.549
+"San Esteban del Molar","No_Lowcost",1.395,1.395,1.395,1.574,1.574,1.574
+"San Fernando","No_Lowcost",1.355,1.355,1.355,1.569,1.569,1.569
+"San Javier","No_Lowcost",1.349,1.349,1.349,1.509,1.509,1.509
+"San Miguel de Abona","Lowcost",1.089,1.089,1.089,1.179,1.179,1.179
+"San Pedro del Pinatar","No_Lowcost",1.374,1.374,1.374,1.564,1.564,1.564
+"San Roque","No_Lowcost",1.379,1.339,1.36566666666667,1.569,1.539,1.559
+"San Sebastián de los Reyes","No_Lowcost",1.335,1.335,1.335,1.539,1.539,1.539
+"Sant Adrià de Besòs","No_Lowcost",1.392,1.392,1.392,1.59,1.59,1.59
+"Sant Andreu de la Barca","Lowcost",1.309,1.309,1.309,1.449,1.449,1.449
+"Sant Antoni de Portmany","No_Lowcost",1.445,1.445,1.445,1.664,1.604,1.634
+"Sant Feliu de Llobregat","Lowcost",1.309,1.309,1.309,1.449,1.449,1.449
+"Sant Jaume d'Enveja","No_Lowcost",1.395,1.395,1.395,1.583,1.583,1.583
+"Sant Jaume dels Domenys","No_Lowcost",1.449,1.449,1.449,1.619,1.619,1.619
+"Sant Josep de sa Talaia","No_Lowcost",1.455,1.455,1.455,1.614,1.614,1.614
+"Sant Llorenç des Cardassar","No_Lowcost",1.435,1.435,1.435,1.609,1.609,1.609
+"Sant Sadurní d'Anoia","No_Lowcost",1.409,1.409,1.409,1.579,1.579,1.579
+"Sant Vicenç dels Horts","Lowcost",1.309,1.309,1.309,1.449,1.449,1.449
+"Santa Amalia","No_Lowcost",1.449,1.449,1.449,1.529,1.529,1.529
+"Santa Eugènia","No_Lowcost",1.435,1.435,1.435,1.614,1.614,1.614
+"Santa Maria de Miralles","Lowcost",1.229,1.229,1.229,1.349,1.349,1.349
+"Santa Marta de Tormes","No_Lowcost",1.289,1.289,1.289,1.489,1.489,1.489
+"Santa Perpètua de Mogoda","No_Lowcost",1.415,1.415,1.415,1.619,1.619,1.619
+"Santa Pola","No_Lowcost",1.385,1.385,1.385,1.614,1.614,1.614
+"Santanyí","No_Lowcost",1.469,1.435,1.45433333333333,1.639,1.629,1.63566666666667
+"Sax","No_Lowcost",1.395,1.385,1.39166666666667,1.644,1.574,1.60066666666667
+"Sedaví","No_Lowcost",1.375,1.375,1.375,1.634,1.634,1.634
+"Segovia","No_Lowcost",1.415,1.409,1.413,1.594,1.589,1.59233333333333
+"Selva del Camp (La)","No_Lowcost",1.409,1.409,1.409,1.609,1.609,1.609
+"Seseña","No_Lowcost",1.329,1.329,1.329,1.549,1.549,1.549
+"Siete Iglesias de Trabancos","No_Lowcost",1.385,1.385,1.385,1.569,1.569,1.569
+"Sitges","No_Lowcost",1.469,1.469,1.469,1.649,1.649,1.649
+"Suances","No_Lowcost",1.385,1.385,1.385,1.569,1.569,1.569
+"Taboadela","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Talavera de la Reina","No_Lowcost",1.379,1.379,1.379,1.554,1.554,1.554
+"Tarazona","No_Lowcost",1.419,1.419,1.419,1.599,1.599,1.599
+"Tarazona de la Mancha","No_Lowcost",1.389,1.389,1.389,1.519,1.519,1.519
+"Tarragona","No_Lowcost",1.379,1.349,1.359,1.584,1.539,1.554
+"Tàrrega","Lowcost",1.299,1.299,1.299,1.419,1.419,1.419
+"Tàrrega","No_Lowcost",1.409,1.409,1.409,1.569,1.569,1.569
+"Telde","Lowcost",1.059,1.059,1.059,1.179,1.179,1.179
+"Tembleque","No_Lowcost",1.429,1.429,1.429,1.569,1.569,1.569
+"Terrassa","Lowcost",1.289,1.289,1.289,1.579,1.579,1.579
+"Teruel","No_Lowcost",1.359,1.359,1.359,1.579,1.579,1.579
+"Teulada","No_Lowcost",1.389,1.389,1.389,1.579,1.579,1.579
+"Titaguas","Lowcost",1.339,1.339,1.339,1.509,1.509,1.509
+"Toledo","No_Lowcost",1.419,1.405,1.412,1.579,1.549,1.564
+"Tomelloso","Lowcost",1.379,1.379,1.379,1.509,1.509,1.509
+"Tordesillas","No_Lowcost",1.409,1.409,1.409,1.549,1.549,1.549
+"Toreno","No_Lowcost",1.419,1.419,1.419,1.589,1.589,1.589
+"Torija","No_Lowcost",1.399,1.399,1.399,1.599,1.599,1.599
+"Torquemada","No_Lowcost",1.389,1.389,1.389,1.569,1.569,1.569
+"Torre-Pacheco","Lowcost",1.299,1.238,1.2685,1.509,1.368,1.4385
+"Torrejón de la Calzada","No_Lowcost",1.419,1.419,1.419,1.609,1.609,1.609
+"Torremolinos","No_Lowcost",1.379,1.359,1.36566666666667,1.644,1.639,1.64066666666667
+"Torrent","No_Lowcost",1.369,1.369,1.369,1.579,1.579,1.579
+"Torrevieja","No_Lowcost",1.369,1.369,1.369,1.539,1.539,1.539
+"Tortosa","No_Lowcost",1.395,1.39,1.3925,1.595,1.583,1.589
+"Totana","No_Lowcost",1.369,1.369,1.369,1.549,1.549,1.549
+"Trigueros","No_Lowcost",1.389,1.375,1.382,1.549,1.549,1.549
+"Trujillo","No_Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Tui","No_Lowcost",1.339,1.339,1.339,1.539,1.539,1.539
+"Unión (La)","No_Lowcost",1.359,1.359,1.359,1.539,1.539,1.539
+"Usurbil","No_Lowcost",1.449,1.449,1.449,1.644,1.644,1.644
+"Utebo","No_Lowcost",1.375,1.375,1.375,1.574,1.574,1.574
+"Utrera","Lowcost",1.309,1.309,1.309,1.429,1.429,1.429
+"Valdemoro","No_Lowcost",1.429,1.429,1.429,1.644,1.644,1.644
+"Valdepeñas","No_Lowcost",1.399,1.399,1.399,1.559,1.559,1.559
+"Vallada","Lowcost",1.389,1.389,1.389,1.539,1.539,1.539
+"Valladolid","No_Lowcost",1.389,1.379,1.384,1.589,1.569,1.5765
+"Valls","No_Lowcost",1.419,1.419,1.419,1.579,1.579,1.579
+"Vandellòs i l'Hospitalet de l'Infant","Lowcost",1.179,1.179,1.179,1.359,1.359,1.359
+"Vega de Valdetronco","No_Lowcost",1.389,1.389,1.389,1.589,1.589,1.589
+"Vélez-Málaga","No_Lowcost",1.399,1.399,1.399,1.589,1.589,1.589
+"Vélez de Benaudalla","No_Lowcost",1.369,1.369,1.369,1.529,1.529,1.529
+"Verín","No_Lowcost",1.419,1.419,1.419,1.589,1.589,1.589
+"Vilafranca del Penedès","Lowcost",1.289,1.289,1.289,1.379,1.379,1.379
+"Vilagarcía de Arousa","No_Lowcost",1.395,1.395,1.395,1.574,1.574,1.574
+"Vilanova de Arousa","No_Lowcost",1.379,1.379,1.379,1.539,1.539,1.539
+"Villa del Prado","No_Lowcost",1.419,1.419,1.419,1.604,1.604,1.604
+"Villa del Río","No_Lowcost",1.409,1.409,1.409,1.549,1.549,1.549
+"Villabona","No_Lowcost",1.379,1.379,1.379,1.579,1.579,1.579
+"Villadecanes","No_Lowcost",1.409,1.409,1.409,1.589,1.589,1.589
+"Villafranca de Córdoba","No_Lowcost",1.409,1.409,1.409,1.569,1.569,1.569
+"Villafranca de los Barros","Lowcost",1.409,1.409,1.409,1.569,1.569,1.569
+"Villafranca de los Barros","No_Lowcost",1.399,1.399,1.399,1.569,1.569,1.569
+"Villaharta","No_Lowcost",1.379,1.379,1.379,1.519,1.519,1.519
+"Villajoyosa/Vila Joiosa (la)","No_Lowcost",1.439,1.39,1.42266666666667,1.624,1.584,1.61066666666667
+"Villanueva de Córdoba","No_Lowcost",1.379,1.369,1.374,1.549,1.519,1.534
+"Villanueva de la Jara","Lowcost",1.379,1.379,1.379,1.529,1.529,1.529
+"Villanueva del Duque","No_Lowcost",1.399,1.399,1.399,1.519,1.519,1.519
+"Villanueva del Pardillo","No_Lowcost",1.419,1.419,1.419,1.624,1.624,1.624
+"Villarejo de Salvanés","No_Lowcost",1.429,1.429,1.429,1.614,1.614,1.614
+"Villarreal/Vila-real","No_Lowcost",1.369,1.359,1.364,1.559,1.549,1.554
+"Villarrobledo","No_Lowcost",1.359,1.359,1.359,1.499,1.499,1.499
+"Villarta de San Juan","No_Lowcost",1.399,1.399,1.399,1.529,1.529,1.529
+"Villaviciosa","No_Lowcost",1.379,1.379,1.379,1.569,1.509,1.539
+"Villena","Lowcost",1.385,1.385,1.385,1.579,1.579,1.579
+"Villena","No_Lowcost",1.399,1.399,1.399,1.579,1.579,1.579
+"Vitoria-Gasteiz","No_Lowcost",1.449,1.449,1.449,1.729,1.729,1.729
+"Viveiro","No_Lowcost",1.389,1.359,1.374,1.559,1.529,1.544
+"Xinzo de Limia","No_Lowcost",1.419,1.419,1.419,1.589,1.589,1.589
+"Zafra de Záncara","No_Lowcost",1.409,1.409,1.409,1.579,1.579,1.579
+"Zaragoza","No_Lowcost",1.389,1.368,1.38057142857143,1.599,1.548,1.57814285714286
